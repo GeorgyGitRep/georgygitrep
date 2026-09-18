@@ -1,7 +1,7 @@
 # Hi there 👋
 ******
 ### About me:
-I am a 5th year student at [Lobachevsky State University of Nizhny Novgorod (UNN)](http://eng.unn.ru/about/unn-at-a-glance) .I am studying fundamental Mathematics and Mechanics at the Institute of Information Technologies of Mathematics and Mechanics at the Department of Theoretical, Computer and Experimental Mechanics. And I am fond of programming.
+
 
 ###  Languages and Tools:
 <div>
